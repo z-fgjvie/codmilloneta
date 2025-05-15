@@ -50,7 +50,7 @@ export const metadata = {
     siteName: "Codifica",
     images: [
       {
-        url: "https://codifica-ten.vercel.app/og-codifica.png",
+        url: "https://codifica-ten.vercel.app/og-codi.png",
         width: 1200,
         height: 630,
       },
