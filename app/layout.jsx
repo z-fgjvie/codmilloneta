@@ -16,7 +16,7 @@ const montserratMedium = localFont({
 });
 
 const montserratSemibold = localFont({
-  src: "./fonts/Montserrat-Semibold.woff2",
+  src: "./fonts/Montserrat-SemiBold.woff2",
   variable: "--font-montserrat-semibold",
   display: "swap",
 });
