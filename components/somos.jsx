@@ -20,7 +20,7 @@ export default function Somos() {
             data-aos="zoom-in"
           >
             <Image
-              src="/somos.jpg"
+              src="https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338465/somos_cazzpo.jpg"
               alt="somos"
               width="450"
               height="450"
@@ -33,6 +33,7 @@ export default function Somos() {
               width="450"
               height="450"
               className="rounded-lg mx-auto object-cover h-[19.375rem] hidden md:flex lg:hidden"
+              loading="lazy"
             />
           </div>
           <div data-aos="fade-up">

@@ -3,7 +3,7 @@ import React from "react";
 export default function Banner() {
   return (
     <section
-      className="bg-[url('/banner-codifica.jpg')] bg-cover bg-no-repeat bg-top h-[20rem] sm:h-[23rem] md:h-[25rem] lg:h-[33rem] relative after:absolute after:content-[''] after:inset-0 after:bg-black/60 after:sm:bg-black/50"
+      className="bg-[url('https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338459/banner-codifica_llpnjw.jpg')] bg-cover bg-no-repeat bg-top h-[20rem] sm:h-[23rem] md:h-[25rem] lg:h-[33rem] relative after:absolute after:content-[''] after:inset-0 after:bg-black/60 after:sm:bg-black/50"
       data-aos="fade-up"
       data-aos-anchor-placement="top-bottom"
     >

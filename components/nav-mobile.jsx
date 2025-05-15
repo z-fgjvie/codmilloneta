@@ -51,7 +51,7 @@ export default function NavMobile() {
         <SheetHeader>
           <SheetTitle>
             <Image
-              src="/logo-solo.png"
+              src="https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338462/logo-solo_umvs9b.png"
               alt="logo codifica"
               width="70"
               height="80"

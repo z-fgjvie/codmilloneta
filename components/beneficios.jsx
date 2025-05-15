@@ -16,7 +16,7 @@ export default function Beneficios() {
         data-aos="zoom-in"
       >
         <Image
-          src="/code-b.png"
+          src="https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338459/code-b_u3hykr.png"
           alt="coding"
           width="450"
           height="450"

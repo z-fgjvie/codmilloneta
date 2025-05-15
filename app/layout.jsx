@@ -41,6 +41,22 @@ export const metadata = {
     icon: ["/favicon.ico?v=4"],
     apple: ["/apple-touch-icon.png?=4"],
   },
+
+  openGraph: {
+    title: "Codifica",
+    description:
+      "Aprende desarrollo web con un enfoque 100% práctico. En Codifica creas proyectos reales desde el primer día, sin teoría aburrida y con acompañamiento cercano. Sal listo para el mundo laboral.",
+    url: "https://codifica-ten.vercel.app",
+    siteName: "Codifica",
+    images: [
+      {
+        url: "https://codifica-ten.vercel.app/og-codifica.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {

@@ -9,7 +9,7 @@ export default function Header() {
       <div className="max-w-[75rem] mx-auto flex items-center justify-between">
         <div className="flex flex-grow basis-0">
           <Image
-            src="/logo-solo.png"
+            src="https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338462/logo-solo_umvs9b.png"
             alt="logo codifica"
             width="75"
             height="75"

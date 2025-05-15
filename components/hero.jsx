@@ -4,7 +4,7 @@ import React from "react";
 export default function Hero() {
   return (
     <section
-      className="bg-[url('/heroco.jpg')] bg-cover bg-no-repeat bg-top h-[33rem] sm:h-[32rem] md:h-[35rem] lg:h-[38.5rem] top-section relative after:absolute after:content-[''] after:inset-0 after:bg-black/40 md:after:bg-black/20"
+      className="bg-[url('https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338460/heroco_yeu8dr.jpg')] bg-cover bg-no-repeat bg-top h-[33rem] sm:h-[32rem] md:h-[35rem] lg:h-[38.5rem] top-section relative after:absolute after:content-[''] after:inset-0 after:bg-black/40 md:after:bg-black/20"
       id="inicio"
     >
       <div className="max-w-[75rem] mx-auto h-full flex flex-col justify-center px-5 relative z-10">

@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-[75rem] mx-auto px-5 flex flex-col sm:flex-row sm:flex-wrap justify-between items-center sm:items-start gap-10 sm:gap-9 lg:gap-2">
         <div>
           <Image
-            src="/logo-codifica-web.png"
+            src="https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338460/logo-codifica-web_odijfw.png"
             alt="logo codifica"
             width="100"
             height="100"
