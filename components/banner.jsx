@@ -1,6 +1,11 @@
 import React from "react";
 
 export default function Banner() {
+  const mensaje =
+    "Hola, estoy interesado en el curso de desarrollo web. ¿Podrían brindarme más información?";
+  const url = `https://api.whatsapp.com/send?phone=51907993141&text=${encodeURIComponent(
+    mensaje
+  )}`;
   return (
     <section
       className="bg-[url('https://res.cloudinary.com/due4z1bf8/image/upload/f_auto,q_auto/v1747338459/banner-codifica_llpnjw.jpg')] bg-cover bg-no-repeat bg-top h-[20rem] sm:h-[23rem] md:h-[25rem] lg:h-[33rem] relative after:absolute after:content-[''] after:inset-0 after:bg-black/60 after:sm:bg-black/50"
@@ -16,7 +21,7 @@ export default function Banner() {
           proyectos reales.
         </p>
         <a
-          href="#"
+          href={url}
           className="bg-[#5c5696] px-6 py-4 rounded-sm block montserrat-medium"
         >
           ¡Empieza ya mismo!

@@ -41,13 +41,16 @@ export default function Footer() {
 
         <div>
           <h3 className="text-white montserrat-bold text-xl mb-4 text-center sm:text-left">
-            Datos de Contacto
+            Datos de Empresa
           </h3>
           <p className="text-white mb-2 text-[1.0625rem] text-center sm:text-left">
-            Numero de celular
+            +51 907 993 141
+          </p>
+          <p className="text-white mb-2 text-[1.0625rem] text-center sm:text-left">
+            codifica@gmail.com
           </p>
           <p className="text-white text-[1.0625rem] text-center sm:text-left">
-            codifica@gmail.com
+            RUC: 20694825136
           </p>
         </div>
 

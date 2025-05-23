@@ -16,7 +16,7 @@ export default function Hero() {
           y sin vueltas.
         </p>
         <Link
-          href="#"
+          href="#contacto"
           className="bg-[#5c5696] w-fit px-5 py-4 rounded-md text-white montserrat-medium hover:bg-[#524d84] transition-all duration-300"
         >
           ¡Quiero aprender!
