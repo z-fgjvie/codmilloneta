@@ -46,11 +46,8 @@ export default function Footer() {
           <p className="text-white mb-2 text-[1.0625rem] text-center sm:text-left">
             +51 907 993 141
           </p>
-          <p className="text-white mb-2 text-[1.0625rem] text-center sm:text-left">
-            codifica@gmail.com
-          </p>
           <p className="text-white text-[1.0625rem] text-center sm:text-left">
-            RUC: 20694825136
+            codifica@gmail.com
           </p>
         </div>
 
